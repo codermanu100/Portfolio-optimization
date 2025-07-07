@@ -1,6 +1,7 @@
 # Portfolio-optimization
 
 Output:
+
 <img width="612" height="117" alt="Image" src="https://github.com/user-attachments/assets/33a2818d-c682-4192-b069-3daa36407362" />
 
 <img width="1001" height="832" alt="Image" src="https://github.com/user-attachments/assets/8a0ffb8d-4282-4374-8170-a9c08c840cdb" />
