@@ -1,0 +1,135 @@
+Sector: Pharmaceuticals
+ Minimum-Risk Portfolio:
+  Return:      0.1902
+  Volatility:  0.0121
+  Sharpe Ratio:14.9422
+  Weights:     {"DRREDDY.NS": 0.0525, "CIPLA.NS": 0.2493, "LUPIN.NS": 0.3087, "SUNPHARMA.NS": 0.0238, "AUROPHARMA.NS": 0.3656}
+
+ Optimum-Risk Portfolio (Max Sharpe):
+  Return:      0.2650
+  Volatility:  0.0133
+  Sharpe Ratio:19.1736
+  Weights:     {"DRREDDY.NS": 0.0335, "CIPLA.NS": 0.1131, "LUPIN.NS": 0.0286, "SUNPHARMA.NS": 0.1857, "AUROPHARMA.NS": 0.639}
+
+====================================================================================================
+
+Sector: Infrastructure
+ Minimum-Risk Portfolio:
+  Return:      0.3696
+  Volatility:  0.0155
+  Sharpe Ratio:23.1723
+  Weights:     {"ONGC.NS": 0.0119, "BHEL.NS": 0.2343, "NTPC.NS": 0.2937, "POWERGRID.NS": 0.3801, "RECLTD.NS": 0.08}
+
+ Optimum-Risk Portfolio (Max Sharpe):
+  Return:      0.4192
+  Volatility:  0.0167
+  Sharpe Ratio:24.5780
+  Weights:     {"ONGC.NS": 0.1128, "BHEL.NS": 0.2489, "NTPC.NS": 0.1417, "POWERGRID.NS": 0.2275, "RECLTD.NS": 0.2691}
+
+====================================================================================================
+
+Sector: Real estate
+ Minimum-Risk Portfolio:
+  Return:      0.3933
+  Volatility:  0.0203
+  Sharpe Ratio:18.9217
+  Weights:     {"DLF.NS": 0.0984, "PRESTIGE.NS": 0.4086, "GodrejProp.NS": 0.1663, "ANANTRAJ.NS": 0.1795, "SOBHA.NS": 0.1472}
+
+ Optimum-Risk Portfolio (Max Sharpe):
+  Return:      0.6038
+  Volatility:  0.0239
+  Sharpe Ratio:24.8674
+  Weights:     {"DLF.NS": 0.4294, "PRESTIGE.NS": 0.1325, "GodrejProp.NS": 0.0071, "ANANTRAJ.NS": 0.335, "SOBHA.NS": 0.0959}
+
+====================================================================================================
+
+Sector: Media
+ Minimum-Risk Portfolio:
+  Return:      0.0649
+  Volatility:  0.0184
+  Sharpe Ratio:2.9831
+  Weights:     {"ZEEL.NS": 0.2261, "SUNTV.NS": 0.0879, "NETWORK18.NS": 0.0446, "HATHWAY.NS": 0.5075, "HTMEDIA.NS": 0.1339}
+
+ Optimum-Risk Portfolio (Max Sharpe):
+  Return:      0.1571
+  Volatility:  0.0200
+  Sharpe Ratio:7.3729
+  Weights:     {"ZEEL.NS": 0.019, "SUNTV.NS": 0.094, "NETWORK18.NS": 0.2482, "HATHWAY.NS": 0.6227, "HTMEDIA.NS": 0.0161}
+
+====================================================================================================
+
+Sector: Public Sector Banks
+ Minimum-Risk Portfolio:
+  Return:      0.4172
+  Volatility:  0.0219
+  Sharpe Ratio:18.6251
+  Weights:     {"INDIANB.NS": 0.3546, "UNIONBANK.NS": 0.2255, "PNB.NS": 0.2674, "CANBK.NS": 0.138, "UCOBANK.NS": 0.0144}
+
+ Optimum-Risk Portfolio (Max Sharpe):
+  Return:      0.5197
+  Volatility:  0.0245
+  Sharpe Ratio:20.8323
+  Weights:     {"INDIANB.NS": 0.1726, "UNIONBANK.NS": 0.6992, "PNB.NS": 0.0226, "CANBK.NS": 0.0132, "UCOBANK.NS": 0.0924}
+
+====================================================================================================
+
+Sector: Private Sector Banks
+ Minimum-Risk Portfolio:
+  Return:      0.1253
+  Volatility:  0.0123
+  Sharpe Ratio:9.3419
+  Weights:     {"HDFCBANK.NS": 0.1346, "ICICIBANK.NS": 0.2992, "AXISBANK.NS": 0.1506, "KOTAKBANK.NS": 0.0563, "IDFCFIRSTB.NS": 0.3593}
+
+ Optimum-Risk Portfolio (Max Sharpe):
+  Return:      0.2388
+  Volatility:  0.0144
+  Sharpe Ratio:15.9408
+  Weights:     {"HDFCBANK.NS": 0.2714, "ICICIBANK.NS": 0.0006, "AXISBANK.NS": 0.6532, "KOTAKBANK.NS": 0.0399, "IDFCFIRSTB.NS": 0.0349}
+
+====================================================================================================
+
+Sector: Large-Cap
+ Minimum-Risk Portfolio:
+  Return:      0.1154
+  Volatility:  0.0096
+  Sharpe Ratio:11.0224
+  Weights:     {"TCS.NS": 0.296, "RELIANCE.NS": 0.0733, "ITC.NS": 0.2463, "INFY.NS": 0.1724, "HINDUNILVR.NS": 0.212}
+
+ Optimum-Risk Portfolio (Max Sharpe):
+  Return:      0.1979
+  Volatility:  0.0117
+  Sharpe Ratio:16.0400
+  Weights:     {"TCS.NS": 0.014, "RELIANCE.NS": 0.147, "ITC.NS": 0.7024, "INFY.NS": 0.1013, "HINDUNILVR.NS": 0.0353}
+
+====================================================================================================
+
+Sector: Mid-Cap
+ Minimum-Risk Portfolio:
+  Return:      0.1954
+  Volatility:  0.0129
+  Sharpe Ratio:14.4011
+  Weights:     {"MOTHERSON.NS": 0.1735, "MAXHEALTH.NS": 0.3551, "BALKRISIND.NS": 0.2751, "JSWSTEEL.NS": 0.1479, "BATAINDIA.NS": 0.0484}
+
+ Optimum-Risk Portfolio (Max Sharpe):
+  Return:      0.4004
+  Volatility:  0.0162
+  Sharpe Ratio:24.0416
+  Weights:     {"MOTHERSON.NS": 0.0863, "MAXHEALTH.NS": 0.0019, "BALKRISIND.NS": 0.3608, "JSWSTEEL.NS": 0.4624, "BATAINDIA.NS": 0.0887}
+
+====================================================================================================
+
+Sector: Small-Cap
+ Minimum-Risk Portfolio:
+  Return:      0.3607
+  Volatility:  0.0155
+  Sharpe Ratio:22.6684
+  Weights:     {"KEI.NS": 0.1335, "TRENT.NS": 0.2332, "LAOPALA.NS": 0.1389, "HINDZINC.NS": 0.2097, "ENGINERSIN.NS": 0.2847}
+
+ Optimum-Risk Portfolio (Max Sharpe):
+  Return:      0.4700
+  Volatility:  0.0170
+  Sharpe Ratio:27.1264
+  Weights:     {"KEI.NS": 0.0541, "TRENT.NS": 0.2486, "LAOPALA.NS": 0.2098, "HINDZINC.NS": 0.0054, "ENGINERSIN.NS": 0.4821}
+
+====================================================================================================
+

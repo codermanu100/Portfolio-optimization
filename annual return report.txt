@@ -1,0 +1,100 @@
+Annual return report of every sector
+Pharmaceuticals
+Expected Annual Returns:
+AUROPHARMA.NS: 0.1244
+CIPLA.NS: 0.1859
+DRREDDY.NS: 0.0649
+LUPIN.NS: 0.2287
+SUNPHARMA.NS: 0.3060
+
+
+====================================================================================================
+
+Infrastructure
+Expected Annual Returns:
+BHEL.NS: 0.5532
+NTPC.NS: 0.3903
+ONGC.NS: 0.3437
+POWERGRID.NS: 0.3452
+RECLTD.NS: 0.4922
+
+
+====================================================================================================
+
+Real estate
+Expected Annual Returns:
+ANANTRAJ.NS: 0.8365
+DLF.NS: 0.3280
+GodrejProp.NS: 0.1912
+PRESTIGE.NS: 0.4824
+SOBHA.NS: 0.3979
+
+
+====================================================================================================
+
+Media
+Expected Annual Returns:
+HATHWAY.NS: -0.1242
+HTMEDIA.NS: 0.1531
+NETWORK18.NS: 0.2151
+SUNTV.NS: 0.1483
+ZEEL.NS: -0.0398
+
+
+====================================================================================================
+
+Public Sector Banks
+Expected Annual Returns:
+CANBK.NS: 0.4100
+INDIANB.NS: 0.5654
+PNB.NS: 0.3450
+UCOBANK.NS: 0.3306
+UNIONBANK.NS: 0.4480
+
+
+====================================================================================================
+
+Private Sector Banks
+Expected Annual Returns:
+AXISBANK.NS: 0.1911
+HDFCBANK.NS: 0.1086
+ICICIBANK.NS: 0.2713
+IDFCFIRSTB.NS: 0.2054
+KOTAKBANK.NS: 0.0408
+
+
+====================================================================================================
+
+Large-Cap
+Expected Annual Returns:
+HINDUNILVR.NS: 0.0307
+INFY.NS: 0.0981
+ITC.NS: 0.2368
+RELIANCE.NS: 0.1367
+TCS.NS: 0.0811
+
+
+====================================================================================================
+
+Mid-Cap
+Expected Annual Returns:
+BALKRISIND.NS: 0.1745
+BATAINDIA.NS: -0.0185
+JSWSTEEL.NS: 0.2722
+MAXHEALTH.NS: 0.5735
+MOTHERSON.NS: 0.2484
+
+
+====================================================================================================
+
+Small-Cap
+Expected Annual Returns:
+ENGINERSIN.NS: 0.3198
+HINDZINC.NS: 0.3138
+KEI.NS: 0.5367
+LAOPALA.NS: 0.0752
+TRENT.NS: 0.5427
+
+
+====================================================================================================
+
